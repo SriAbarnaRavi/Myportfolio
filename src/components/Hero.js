@@ -26,6 +26,6 @@ export default function Hero() {
                 <a href={config.social.linkedin} className='hover:text-white'><AiOutlineLinkedin size={40}/></a>
             </div>
        </div>
-       <img className='md:w-1/3' src={HeroImg} />
+       <img className='md:w-1/3' src={HeroImg} alt="heroimage"/>
     </section>
 }
