@@ -8,7 +8,7 @@ export default function Resume () {
 
     return <section id='resume' className='flex flex-col md:flex-row bg-primary px-5'>
         <div className='py-5 md:w-1/2 flex justify-center md:justify-end'>
-            <img className='w-[300px]' src={ResumeImg} />
+            <img className='w-[300px]' src={ResumeImg} alt="resumeimg"/>
             
         </div>
         <div className='md:w-1/2 flex justify-center'>
