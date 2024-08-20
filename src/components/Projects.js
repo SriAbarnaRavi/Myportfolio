@@ -9,7 +9,7 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'Landing Page.My first project built with HTML&CSS',
-                link: 'https://github.com/SriAbarnaRavi/landing-page'
+                link: 'https://cycleshope.netlify.app/'
             },
             {
                 image: websiteImg2,
@@ -19,7 +19,7 @@ export default function Projects() {
             {
                 image: websiteImg3,
                 description: 'Basic Portfolio Website . Built with HTML, CSS, Javascript',
-                link: 'https://github.com/SriAbarnaRavi/portfolio'
+                link: 'https://portfoliorsa.netlify.app/'
             },
             
         ]
