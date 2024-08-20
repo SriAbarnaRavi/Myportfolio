@@ -14,7 +14,7 @@ export default function Projects() {
             {
                 image: websiteImg2,
                 description: 'Website. My second project built with HTML&CSS.',
-                link: 'https://github.com/SriAbarnaRavi/PRODIGY_WD_01'
+                link: 'https://comfyhomejs.netlify.app/'
             },
             {
                 image: websiteImg3,
